@@ -13,3 +13,6 @@
 - `canvas.beginPath()` 와 `canvas.closePath()`는 선을 그리고 선을 닫는 함수
 - `requestAnimationFrame` 함수는 브라우저에게 애니메이션 업데이트 하도록 하며, 업데이트 전 실행된 콜백함수를 인자로 받습니다.
 - `quadraticCurveTo`함수는 직선이 아닌 베지에 곡선을 그리도록 합니다.
+
+### 학습 결과
+![물결(웨이브)](./실행결과.png)
